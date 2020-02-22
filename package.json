@@ -4,7 +4,7 @@
   "description": "Software tools for startup assignment 2 question 2",
   "main": "index.js",
   "scripts": {
-    "test": "jest --converage"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Dylan-Dingqi/CPS847-A2-Q2#readme",
   "dependencies": {
     "jest": "^25.1.0"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.9"
   }
 }
