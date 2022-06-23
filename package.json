@@ -20,7 +20,7 @@
     "jest": "^25.1.0"
   },
   "devDependencies": {
-    "codecov": "^3.6.5",
+    "codecov": "^3.8.3",
     "coveralls": "^3.0.9"
   }
 }
